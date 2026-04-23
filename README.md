@@ -1,6 +1,3 @@
-Tentu, ini adalah draf `README.md` yang profesional, terstruktur, dan siap pakai. File ini dirancang agar kawan kolaborasimu langsung mengerti pembagian tugas dan cara menjalankan proyeknya.
-
-```markdown
 # Gemini AI Chatbot - Dockerized Go & JS
 
 Proyek ini adalah aplikasi chatbot AI sederhana yang menggunakan **Google Gemini AI** sebagai otaknya. Dibangun dengan arsitektur **Server-Client** menggunakan **Golang** di sisi Backend dan **Vanilla JavaScript** di sisi Frontend, semuanya diorkestrasi menggunakan **Docker**.
